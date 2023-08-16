@@ -1,0 +1,3 @@
+lapiz
+borrador
+tijeras
